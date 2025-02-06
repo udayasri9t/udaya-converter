@@ -1,0 +1,23 @@
+{
+  "name": "udaya-converter",
+  "version": "1.0.0",
+  "description": "to convert the indian rupeess into usd",
+  "homepage": "https://github.com/udayasri9t/udaya-converter#readme",
+  "bugs": {
+    "url": "https://github.com/udayasri9t/udaya-converter/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/udayasri9t/udaya-converter.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
